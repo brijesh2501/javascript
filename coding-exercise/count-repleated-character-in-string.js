@@ -5,21 +5,15 @@
  * @javascript
  */
 
-let name = "Brijesh Rawat";
-let lowerCase = name.toLowerCase();
-console.log(lowerCase);
-let charArr = lowerCase.split("");
-
-console.log(charArr);
-
-let newObj = {};
+let str = "Hello World";
+let lowerCaseStr = str.toLowerCase();
+let charArr = lowerCaseStr.split("");
+let charCountObj = {};
 charArr.map((c) => {
-  let count = 1;
-  if (newObj[c]) {
-    newObj[c] = count + 1;
+  if (charCountObj.hasOwnProperty(c)) {
+    charCountObj[c] = charCountObj[c] + 1;
   } else {
-    newObj[c] = 1;
+    charCountObj[c] = 1;
   }
 });
-
-console.log(newObj);
+console.log(charCountObj);
