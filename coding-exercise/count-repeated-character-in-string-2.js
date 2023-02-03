@@ -5,14 +5,16 @@
  * @javascript
  */
 
-let str = "Hello World";
+let str = "Brijesh Rawat";
+
+let lowerCaseStr = str.toLowerCase();
 
 let repeatedCharObj = {};
-for (i = 0; i < str.length; i++) {
-  if (repeatedCharObj.hasOwnProperty(str[i])) {
-    repeatedCharObj[str[i]] = repeatedCharObj[str[i]] + 1;
+for (i = 0; i < lowerCaseStr.length; i++) {
+  if (repeatedCharObj.hasOwnProperty(lowerCaseStr[i])) {
+    repeatedCharObj[lowerCaseStr[i]] = repeatedCharObj[lowerCaseStr[i]] + 1;
   } else {
-    repeatedCharObj[str[i]] = 1;
+    repeatedCharObj[lowerCaseStr[i]] = 1;
   }
 }
 console.log(repeatedCharObj);
