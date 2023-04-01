@@ -22,7 +22,7 @@
 It used in most of the languages like , React , Angular , Vues , ReactNative , Cross platform application  
  It can also be embedded with hardware.
 
-1. **Speed** - Its interpreted language does not wait for compilation so speed get increased
+1. **Speed** - JavaScript used to be purely interpreted but that was many years ago. Nowadays, it is uses JIT-compiler to convert code to optimized version of code so speed get increased.
 2. **Simplicity** - Its syntax is simple so easy so It is easy to understand and learn.
 3. **Popularity** - almost all the the browser support javascript , famous websites uses it like Google , Amazon , Paypal etc
 
