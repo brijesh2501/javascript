@@ -22,15 +22,15 @@
 It used in most of the languages like , React , Angular , Vues , ReactNative , Cross platform application  
  It can also be embedded with hardware.
 
-- Speed - Its i interpreted language does wait for compilation so speed get increased
-- Simplicity - Its syntax is simple so easy so It is easy to understand and learn.
-- Popularity - almost all the the browser support javascript , famous websites uses it like Google , Amazon , Paypal etc
+1. **Speed** - Its i interpreted language does wait for compilation so speed get increased
+2. **Simplicity** - Its syntax is simple so easy so It is easy to understand and learn.
+3. **Popularity** - almost all the the browser support javascript , famous websites uses it like Google , Amazon , Paypal etc
 
 ## Limitations of javascript
 
-- Client side security - code is viewable to the use , can be used for malicious purposes.
-- Browser support - browsers interpret javascript differently in different browsers , so old browsers may not support new functions created in javascript so we need to install a new version of javascript.
-- Lack of debugging facility : Unlike other languages , Javascript is not easy to debug, sometimes browsers do not show any error so it becomes difficult for developers to find errors.
-- Stopped Rendering : Page gets stopped rendering when there is error related to javascript.
+1. **Client side security** - code is viewable to the use , can be used for malicious purposes.
+2. **Browser support** - browsers interpret javascript differently in different browsers , so old browsers may not support new functions created in javascript so we need to install a new version of javascript.
+3. **Lack of debugging facility** - Unlike other languages , Javascript is not easy to debug, sometimes browsers do not show any error so it becomes difficult for developers to find errors.
+4. **Stopped Rendering** - Page gets stopped rendering when there is error related to javascript.
 
 **[⬆ Back to Top](#table-of-contents)**
