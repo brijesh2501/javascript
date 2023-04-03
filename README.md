@@ -6,10 +6,10 @@
 
 | No. | Questions                                                                                                              |
 | --- | ---------------------------------------------------------------------------------------------------------------------- |
-| 1   | [What is Javascript , where it is used , It's limitations ](#What-is-Javascript-,-where-it-is-used-,-It's-limitations) |
-| 2   | [How javascript works OR V8 engine working ](#How-javascript-works-OR-V8-engine-working)                               |
+| Q1  | [What is Javascript , where it is used , It's limitations ](#What-is-Javascript-,-where-it-is-used-,-It's-limitations) |
+| Q2  | [How javascript works OR V8 engine working ](#How-javascript-works-OR-V8-engine-working)                               |
 
-1. ### What is Javascript , where it is used , It's limitations ?
+Q1. ### What is Javascript , where it is used , It's limitations ?
 
 Javascript is a client and server side programming language , Initially it was only supported on client side browsers , but now it can also run on servers like Nodejs.
 
@@ -33,9 +33,7 @@ It used in most of the languages like , React , Angular , Vues , ReactNative , C
 3. **Lack of debugging facility** - Unlike other languages , Javascript is not easy to debug, sometimes browsers do not show any error so it becomes difficult for developers to find errors.
 4. **Stopped Rendering** - Page gets stopped rendering when there is error related to javascript.
 
-**[⬆ Back to Top](#table-of-contents)**
-
-2. ### How javascript works OR V8 engine working ?
+Q2. ### How javascript works OR V8 engine working ?
 
 Javascript uses V8 engine to provide run time environment to run code on browser on nodejs. V8 engine is a normal software or program writen in C++ , Javascript can run on different browsers , browsers have different Engines to run like Mozila uses SpiderMonkey.
 
@@ -46,3 +44,5 @@ In V8 engine javascript code gets into 3 phases.
 3. **Execution** - In this phase it uses interpreter as well as compiler to conevert code into bytecode.
 
 V8 engine also uses Callstack , event queue , memory heap (Mark and sweep algorithim).
+
+**[⬆ Back to Top](#table-of-contents)**
