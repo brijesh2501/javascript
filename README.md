@@ -11,11 +11,11 @@
 
 1. ### What is Javascript , where it is used , It's limitations ?
 
-   Javascript is a client and server side programming language , Initially it was only supported on client side browsers , but now it can also run on servers like Nodejs.
+Javascript is a client and server side programming language , Initially it was only supported on client side browsers , but now it can also run on servers like Nodejs.
 
-   Almost all the websites use javascript fully or partially.It can also Interact with hardware devices.
+Almost all the websites use javascript fully or partially.It can also Interact with hardware devices.
 
-   Other languages are built using Javascript , Like Reactjs , VueJs , Angular Js , Hybrid web or mobile application , React Native , Ionic , Phonegap , Flutter etc.
+Other languages are built using Javascript , Like Reactjs , VueJs , Angular Js , Hybrid web or mobile application , React Native , Ionic , Phonegap , Flutter etc.
 
 ## Advantages
 
