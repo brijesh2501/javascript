@@ -34,3 +34,15 @@ It used in most of the languages like , React , Angular , Vues , ReactNative , C
 4. **Stopped Rendering** - Page gets stopped rendering when there is error related to javascript.
 
 **[⬆ Back to Top](#table-of-contents)**
+
+2. ### How javascript works OR V8 engine working ?
+
+Javascript uses V8 engine to provide run time environment to run code on browser on nodejs. V8 engine is a normal software or program writen in C++ , Javascript can run on different browsers , browsers have different Engines to run like Mozila uses SpiderMonkey.
+
+In V8 engine javascript code gets into 3 phases.
+
+1. **Parsing** - In this phase javascript code get converted into Abstract syntax tree.
+2. **Compilation** - During the compilation it uses JIT(Just in time compilation) to convert code into bytecode.
+3. **Execution** - In this phase it uses interpreter as well as compiler to conevert code into bytecode.
+
+V8 engine also uses Callstack , event queue , memory heap (Mark and sweep algorithim).
