@@ -7,8 +7,8 @@
 | No. | Questions                                                                                                              |
 | --- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1   | [What is Javascript , where it is used , It's limitations ](#What-is-Javascript-,-where-it-is-used-,-It's-limitations) |
-| 2   | [How javascript works OR V8 engine working ?](#How-javascript-works-OR-V8-engine-working)                              |
-| 3   | [Is Javascript Synchronous OR Asynchronous ?] (#Is-Javascript-Synchronous-OR -Asynchronous)                            |
+| 2   | [How javascript works OR V8 engine working ](#How-javascript-works-OR-V8-engine-working)                               |
+| 3   | [Is Javascript Synchronous OR Asynchronous ? ](#How-javascript-works-OR-V8-engine-working)                             |
 
 1. ### What is Javascript , where it is used , It's limitations ?
 
