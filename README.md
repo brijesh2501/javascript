@@ -8,7 +8,7 @@
 | --- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1   | [What is Javascript , where it is used , It's limitations ](#What-is-Javascript-,-where-it-is-used-,-It's-limitations) |
 | 2   | [How javascript works OR V8 engine working ](#How-javascript-works-OR-V8-engine-working)                               |
-| 3   | [Is Javascript Synchronous OR Asynchronous ? ](#How-javascript-works-OR-V8-engine-working)                             |
+| 3   | [Is Javascript Synchronous OR Asynchronous ?](#Is-Javascript-Synchronous-OR-Asynchronous)                              |
 
 1. ### What is Javascript , where it is used , It's limitations ?
 
@@ -47,5 +47,9 @@ In V8 engine javascript code gets into 3 phases.
 3. **Execution** - In this phase it uses interpreter as well as compiler to conevert code into bytecode.
 
 V8 engine also uses Callstack , event queue , memory heap (Mark and sweep algorithim).
+
+**[⬆ Back to Top](#table-of-contents)**
+
+3. ### Is Javascript Synchronous OR Asynchronous ?
 
 **[⬆ Back to Top](#table-of-contents)**
